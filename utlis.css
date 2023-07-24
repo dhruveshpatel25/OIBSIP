@@ -1,0 +1,32 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-color{
+    background-color: whitesmoke;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.row-input{
+    width: 3000px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
